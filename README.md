@@ -1,2 +1,2 @@
 # landing-page
-html and css
+Putting my html and css skills into practice by creating a landing page 
